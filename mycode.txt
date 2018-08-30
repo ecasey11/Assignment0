@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<!-- head tag for metadata (not visible on page) -->
+<head>
+	<!-- these are comments! I hit command and backslash. Comments are ignored by the browser -->
+	<title>TITLE</title>
+</head>
+<body>
+	<h1>Elizabeth's Webpages</h1>
+	<h2>Slightly smaller header</h2>
+	<h3>Even smaller header</h3>
+	<h4>Tiny but mighty header</h4>
+	<h5>Smallest header</h5>
+
+	<p>This is a paragraph! Write anything here.</p>
+</body>
+</html>
